@@ -30,7 +30,7 @@ Instead of requiring security teams to manually parse malicious files, URLs, or 
 
 ---
 
-## 📁 Interactive Project Navigator
+## 📁 Interactive Project Navigator 
 
 Explore the project structure and technical documentation by clicking the folders below:
 
